@@ -4,3 +4,5 @@ Minimal Code Editor built using java swing.
 -editing code.
 -saving code.
 -opening existing code and then editing.
+-keyword highlighting.
+
